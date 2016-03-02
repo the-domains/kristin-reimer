@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kristin Reimer]]></title>
+        <description><![CDATA[Kristin Reimer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 02:52:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Props In A Bag Product Shoot]]></title>
+            <description><![CDATA[<article><h1>Props In A Bag Product Shoot</h1><p>In-studio shoot for Props In A Bag via Media Maison PR</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8155dda071d990a47c707339718d7a591d1164c0.jpg"></article>]]></description>
+            <link>undefinedprops-in-a-bag-product-shoot/index.html</link>
+            <guid isPermaLink="false">bc59e5c2-d29e-463e-b4a4-45b882f33613</guid>
+            <pubDate>Wed, 02 Mar 2016 02:52:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
